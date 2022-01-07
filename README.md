@@ -3,10 +3,14 @@
 Powerful virtual joystick for touchscreens (for Godot Game Engine). 
 
 I don't remember from where I got this code
-but here is my version customized.
+but here is my version customized. 
 If you know the original source, please
 inform me so I can properly credit it.
 
----
+# Screenshots
 
-[LICENSE](LICENSE)
+![Vars](screenshots/vars.png "Vars")
+
+# License
+
+[GPLv3](LICENSE)
